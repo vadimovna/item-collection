@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "jdjfkfo skkdfo skdkfof",
+    "mongoUri": "mongodb+srv://evelina:dhf7agsHju@cluster0.rtr2a.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
